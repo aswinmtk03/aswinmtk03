@@ -25,7 +25,7 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
+  <a href="https://dev.to/aswin_mtk">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -40,15 +40,14 @@
 
 >
 
-  <a href="https://x.com/mike_devlogs">
+  <a href="https://x.com/RTionless">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
 
 
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+
 
 <br clear="all" />
 
